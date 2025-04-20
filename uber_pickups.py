@@ -94,7 +94,3 @@ st.pydeck_chart(
     )
 )
 
-####### Jam by day #######
-from datetime import datetime
-st.subheader("Daily traffic")
-st.date_input()
